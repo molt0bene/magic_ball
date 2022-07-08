@@ -1,7 +1,7 @@
 greetings = [
-	"Привет, дорогой друг. Отвечаю на твой вопрос...",
-	"Кто вопрошает, тот получит ответ:",
-	"Здравствуй, смертный. Сегодня для тебя такой ответ:"
+  "Привет, дорогой друг. Отвечаю на твой вопрос...",
+  "Кто вопрошает, тот получит ответ:",
+  "Здравствуй, смертный. Сегодня для тебя такой ответ:"
 ]
 
 answers = [
@@ -34,6 +34,6 @@ answers = [
   "Весьма сомнительно"
 ]
 
-puts greetings.sample		# random greeting
+puts greetings.sample   # random greeting
 sleep(2)
-puts answers.sample			# answer from magic ball
+puts answers.sample     # answer from magic ball
