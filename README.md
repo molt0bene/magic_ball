@@ -1,4 +1,4 @@
-It is a simple Ruby program that gives an answer to any questions. 
+Простая программа на Ruby, которая дает ответ на любой вопрос. 
 
 ```
 ruby 8ball.rb
